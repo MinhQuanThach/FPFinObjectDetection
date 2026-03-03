@@ -1,0 +1,8 @@
+ultralytics >= 8.4.19
+numpy >= 1.26.4
+tqdm >= 4.67.1
+wandb
+cv2 >= 4.11.0
+PIL >= 11.2.1
+matplotlib >= 3.7.2
+sklearn >= 1.2.2
